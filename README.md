@@ -6,3 +6,5 @@ A tool for the calculation of precast reinforced concrete ceilings
 * .NET 5.0
 * Windows Forms
 * xUnit
+
+![](SlabSolverWindow.png)
